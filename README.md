@@ -1,2 +1,1 @@
-THIS IS A NEW FILE
-
+Apriori algorithm for movie recommedations
